@@ -1,1 +1,1 @@
-# End-to-end-on-Machine-Learning-Global-Power-Consumption
+# End-to-end-Machine-Learning-on-Global-Power-Consumption
